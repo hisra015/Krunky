@@ -1,5 +1,5 @@
 # Krunky
-SOURCE FILES STILL UPLOADING. NEED A FEW MINUTES
+Currently, Source Code is unavalible due to issued with GIT CMD, however there are some screenshots for proof of integrity
 
 2021 CU Hackathon Submission for Best Game
 
